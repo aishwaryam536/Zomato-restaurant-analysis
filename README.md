@@ -24,11 +24,15 @@ votes, and restaurant costs.
 5. Business Insights
 
 ## Dashboard
+<img width="1247" height="637" alt="image" src="https://github.com/user-attachments/assets/ea8397f2-eb6d-41be-b490-c72c46a8fa63" />
 
-[Add dashboard screenshot here]
+
 
 ## Key Insights
 
-- ...
-- ...
-- ...
+- Dining restaurants represent the largest restaurant category in the dataset.
+- Online ordering is available for a smaller share of restaurants compared with restaurants without online ordering.
+- Restaurant ratings are concentrated mainly in the mid-to-good rating range.
+- A relatively small group of restaurants receives a high number of customer votes.
+- Restaurant costs vary across cities.
+- Restaurant type, online ordering, and table booking provide useful dimensions for interactive analysis.
